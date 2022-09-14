@@ -29,11 +29,7 @@
                         <li>dmrc logo.png</li>
                         <li>rrnpilot.jpg</li>
                     </ul>
-                    <li>
-                        <ul>
-                            <li>index.html</li>
-                        </ul>
-                    </li>
+                    <li>index.html</li>
                 </ul>
             </td>
             <td align="center">25%</td>
