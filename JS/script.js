@@ -13,7 +13,6 @@ function form_going_middle_to_left()
 }
 form_going_middle_to_left();
 
-
 function closeForm()
 {
   document.getElementById("education").style.display = "none";
