@@ -22,7 +22,7 @@
                             <li>script.js</li>
                         </ul>
                     </li>
-                    <li color="red">Image</li>
+                    <li>Image</li>
                     <ul>
                         <li>0x2.jpeg</li>
                         <li>aiub logo.png</li>
