@@ -1,5 +1,5 @@
 <p align="center">
-    <table align="center" color="red">
+    <table align="center">
         <tr align="center">
   	        <th colspan="3">Portfolio</th>
         </tr>
@@ -22,7 +22,7 @@
                             <li>script.js</li>
                         </ul>
                     </li>
-                    <li>Image</li>
+                    <li color="red">Image</li>
                     <ul>
                         <li>0x2.jpeg</li>
                         <li>aiub logo.png</li>
