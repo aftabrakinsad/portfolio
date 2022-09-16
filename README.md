@@ -1,5 +1,5 @@
 <p align="center">
-    <table align="center">
+    <table align="center" color="red">
         <tr align="center">
   	        <th colspan="3">Portfolio</th>
         </tr>
